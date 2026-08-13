@@ -1,8 +1,8 @@
 <div align="center">
 
-# 💫 Hi 👋, I'm Sonu 
+# 💫 Hi 👋, I'm Saumya 
 
-### Full Stack Developer | C++ Programmer | AI/ML Enthusiast
+### Electronics and Communication Engineering Student | C++ Programmer | AI/ML Enthusiast
 
 <img src="https://komarev.com/ghpvc/?username=Sonuverma0625&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
@@ -19,7 +19,7 @@
 ### `> whoami`
 
 ```yaml
-Name     : Sonu 
+Name     : Saumya
 Role     : Full Stack Developer
 Branch   : B.Tech Electronics & Communication Engineering
 Location : India
