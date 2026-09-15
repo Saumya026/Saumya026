@@ -150,7 +150,6 @@ Focus    : MERN Stack · DSA · System Design
   - Build 5+ Full Stack Projects
   - Contribute to Open Source (GSSoC)
   - Secure a Software Engineering Internship
-  - Reach 500+ LeetCode Problems
   - Improve System Design Knowledge
 ```
 
