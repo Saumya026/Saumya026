@@ -2,7 +2,7 @@
 
 # 💫 Hi 👋, I'm Saumya 
 
-### Electronics and Communication Engineering Student | C++ Programmer | AI/ML Enthusiast
+### Electronics and Communication Engineering Student | Web Developer | 
 
 <img src="https://komarev.com/ghpvc/?username=Sonuverma0625&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
 
@@ -20,12 +20,11 @@
 
 ```yaml
 Name     : Saumya
-Role     : Full Stack Developer
+Role     : Web Developer
 Branch   : B.Tech Electronics & Communication Engineering
 Location : India
 Status   : Open to SWE Internships & Opportunities
 Focus    : MERN Stack · DSA · System Design
-Intern   : AI/ML @ AICTE & Edunet Foundation
 ```
 
 <br clear="right"/>
